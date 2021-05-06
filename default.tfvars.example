@@ -1,0 +1,8 @@
+profile            = "default"
+aws_account_number = "00example00"
+environment        = "prod"
+vpc_id             = "vpc-00example00"
+public_subnet1_id  = "subnet-00example00"
+public_subnet2_id  = "subnet-00example00"
+private_subnet1_id = "subnet-00example00"
+private_subnet2_id = "subnet-00example00"
