@@ -1,4 +1,6 @@
-on: pull_request
+name: Checkstyle
+
+on: [push]
 
 jobs:
   checkstyle_job:
